@@ -32,7 +32,6 @@ DISTFILES += qml/Organization_interface.qml \
     qml/pages/Task_8.qml \
     qml/pages/Task_9.qml \
     qml/pages/ThirdPage.qml \
-    qml/pages/Time_dialog.qml \
     rpm/Organization_interface.changes.in \
     rpm/Organization_interface.changes.run.in \
     rpm/Organization_interface.spec \

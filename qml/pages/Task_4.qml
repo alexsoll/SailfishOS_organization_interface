@@ -17,7 +17,7 @@ Page {
             width: task_2_1.width
             spacing: Theme.paddingLarge
             PageHeader {
-                title: qsTr("Task 3")
+                title: qsTr("Task 4")
             }
 
             Button {

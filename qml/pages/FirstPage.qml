@@ -35,6 +35,22 @@ Page {
                 text: qsTr("Task 6")
                 onClicked: pageStack.push(Qt.resolvedUrl("Task_6.qml"))
             }
+            MenuItem {
+                text: qsTr("Task 7")
+                onClicked: pageStack.push(Qt.resolvedUrl("Task_7.qml"))
+            }
+            MenuItem {
+                text: qsTr("Task 8")
+                onClicked: pageStack.push(Qt.resolvedUrl("Task_8.qml"))
+            }
+            MenuItem {
+                text: qsTr("Task 9")
+                onClicked: pageStack.push(Qt.resolvedUrl("Task_9.qml"))
+            }
+            MenuItem {
+                text: qsTr("Task 10")
+                onClicked: pageStack.push(Qt.resolvedUrl("Task_10.qml"))
+            }
         }
 
         contentHeight: column.height

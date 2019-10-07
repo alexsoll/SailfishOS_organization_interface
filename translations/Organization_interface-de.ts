@@ -2,13 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1">
 <context>
-    <name>CoverPage</name>
-    <message>
-        <source>My Cover</source>
-        <translation>Mein Cover</translation>
-    </message>
-</context>
-<context>
     <name>FirstPage</name>
     <message>
         <source>Main page</source>
@@ -32,6 +25,26 @@
     </message>
     <message>
         <source>Task 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task 10</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -77,7 +90,34 @@
 <context>
     <name>Task_5</name>
     <message>
-        <source>Task 3</source>
+        <source>Task 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Task_9</name>
+    <message>
+        <source>Choice 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choice 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choice 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choice 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choice 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choice 6</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

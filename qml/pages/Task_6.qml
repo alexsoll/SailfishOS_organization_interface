@@ -25,6 +25,9 @@ Page {
             property: "time"
             delegate: SectionHeader {text: section}
         }
-        delegate: Text{text: task}
+        delegate: Text{
+            color: "white"
+            text: task
+        }
     }
 }
